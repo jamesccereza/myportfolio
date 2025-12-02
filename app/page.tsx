@@ -44,7 +44,7 @@ export default function Home() {
             </div>
 
             <div className="skill">
-              <Image src="/css.svg" alt="CSS" width={50} height={50} />
+              <Image src="/CSS.svg" alt="CSS" width={50} height={50} />
               <p>CSS</p>
             </div>
 
